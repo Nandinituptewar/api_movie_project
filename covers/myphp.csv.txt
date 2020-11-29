@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<?php
+$x=9;
+$y=45;
+function myf(){
+$g=$GLOBAL['x']+$GLOBAL['y']);
+echo $g;
+}
+myf();
+
+?>
+
+
+</body>
+</html>
